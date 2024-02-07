@@ -1,19 +1,2 @@
-# pop-up-task
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Vue Component
+This Vue.js component defines a pop-up that displays random content from a predefined list each time it's opened. Overall, this component provides a simple pop-up functionality with random content display.
